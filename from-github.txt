@@ -1,2 +1,5 @@
-hi this file created by github.
-use it on git
+<code>
+x = 5;
+y = 6;
+z = x + y;
+</code>
